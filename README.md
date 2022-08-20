@@ -1,2 +1,2 @@
 # erebus_paper
-Erebus: Language-based Access Control in AR ('Submission' branch)
+Erebus: Language-based Access Control in AR (**'Submission'** branch)
